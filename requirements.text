@@ -1,0 +1,5 @@
+requests==2.27.1
+python-csv==0.0.13
+beautifulsoup4==4.11.1
+urllib3==1.26.9
+os-sys==2.1.4
