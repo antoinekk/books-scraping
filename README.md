@@ -32,5 +32,3 @@ Please follow the instructions below to use and run the script :
 
 9. The data will be export directly on the project folder
 ```
-
-ENJOY !
