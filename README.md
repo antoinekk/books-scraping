@@ -40,7 +40,7 @@ pip install -r requirements.txt
 6. Set up the main section of "books_scraping.py" file:
 ```
 Here, you can set up the function you want to execute. For example :
-  - If you want to retrieve data for the book catageory "Business", you have to set up this function on the main section :          export_all_data_for_a_category("https://books.toscrape.com/catalogue/category/books/business_35/index.html")
+  - If you want to retrieve data for the book catageory "Business", you have to set up this function on the main section : export_all_data_for_a_category("https://books.toscrape.com/catalogue/category/books/business_35/index.html")
   - If you want to retrieve data for all categories, you have to set up this function : export_data_for_all_categories()
 ```
 
