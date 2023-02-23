@@ -44,7 +44,7 @@ Here, you can set up the function you want to execute. For example :
   - If you want to retrieve data for all categories, you have to set up this function : export_data_for_all_categories()
 ```
 
-7. Run the script into your terminal :
+7. Run the script in your terminal :
 ```
 $ python3 books_scraping.py
 ```
